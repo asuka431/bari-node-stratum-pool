@@ -10,7 +10,8 @@
         "poolserver",
         "bitcoin",
         "litecoin",
-        "scrypt"
+        "scrypt",
+        "yespower"
     ],
     "homepage": "https://github.com/MottyLab/bari-node-stratum-pool.git",
     "bugs": {
@@ -28,7 +29,7 @@
         "url": "https://github.com/MottyLab/bari-node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing.git",
+        "multi-hashing": "git://github.com/MottyLab/bari-node-multi-hashing.git",
         "bignum": "0.13.1",
         "base58-native": "*",
         "async": "*"
